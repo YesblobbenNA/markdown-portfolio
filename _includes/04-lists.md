@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Movies
+- AW:s
+- Animals
+    - Cats
+    - Dogs
+* Music
+    * Rock
+    * Pop
