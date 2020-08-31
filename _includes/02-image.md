@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![knightofni](https://en.wikipedia.org/wiki/File:Knightni.jpg)
